@@ -1,0 +1,8 @@
+{
+  "textures": {
+    "antique_atlas:base/snow": 5,
+    "antique_atlas:biome/flatland/plains/snowy/snow_2": 2,
+    "antique_atlas:biome/flatland/plains/snowy/snow_3": 3,
+    "antique_atlas:base/highland/windswept/hills/gravelly": 5
+  }
+}

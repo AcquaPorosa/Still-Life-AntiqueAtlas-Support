@@ -1,0 +1,9 @@
+{
+  "textures": {
+    "mid": {
+      "antique_atlas:biome/flatland/plains/grass_3": 3,
+      "antique_atlas:biome/flatland/plains/grass_oak_fancy_sparse": 2
+    },
+    "high": "antique_atlas:biome/flatland/plains/grass_oak_fancy_sparse_hills_low"
+  }
+}

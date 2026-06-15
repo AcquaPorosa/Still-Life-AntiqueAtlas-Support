@@ -1,0 +1,9 @@
+{
+  "textures": {
+
+      "antique_atlas:biome/wetland/swamp/swamp_water_grass_hills": 3,
+      "antique_atlas:biome/wetland/swamp/swamp_water_oak_swamp_sparse_2": 2,
+      "antique_atlas:biome/arid/savanna/grass_acacia_3": 1
+
+  }
+}

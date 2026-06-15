@@ -1,0 +1,9 @@
+{
+  "textures": {
+
+      "antique_atlas:biome/wetland/swamp/swamp_water_oak_swamp_1": 2,
+      "antique_atlas:biome/wetland/swamp/swamp_water_oak_swamp_2": 2,
+      "antique_atlas:biome/wetland/swamp/swamp_water": 1
+
+  }
+}

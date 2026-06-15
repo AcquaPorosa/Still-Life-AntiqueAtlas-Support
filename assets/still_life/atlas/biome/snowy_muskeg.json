@@ -1,0 +1,8 @@
+{
+  "textures": {
+      "antique_atlas:biome/wetland/beach/snowy/snow_shore_water_2": 3,
+      "antique_atlas:biome/flatland/plains/snowy/snow_2": 2,
+      "antique_atlas:feature/ice/ice": 1
+    
+  }
+}

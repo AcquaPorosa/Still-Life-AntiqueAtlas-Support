@@ -1,0 +1,7 @@
+{
+  "textures": {
+    "antique_atlas:base/cave": 3,
+    "antique_atlas:feature/ice/ice": 2,
+    "antique_atlas:biome/nonland/ocean/frozen/ice_ice_spikes": 1
+  }
+}

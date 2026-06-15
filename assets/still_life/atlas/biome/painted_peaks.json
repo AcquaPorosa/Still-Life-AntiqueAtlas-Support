@@ -1,0 +1,7 @@
+{
+  "textures": {
+    "valley": "antique_atlas:biome/arid/badlands/terracotta_tiered_rough",
+    "mid": "antique_atlas:biome/arid/badlands/eroded/terracotta_fingers",
+    "high": "antique_atlas:biome/arid/badlands/terracotta_plateau"
+  }
+}

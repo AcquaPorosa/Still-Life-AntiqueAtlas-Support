@@ -1,0 +1,9 @@
+{
+  "textures": {
+
+      "antique_atlas:biome/highland/meadow/grass_daisies_plateau": 2,
+      "antique_atlas:biome/highland/meadow/grass_dandelions_plateau": 2,
+      "antique_atlas:biome/flatland/plains/sunflower/sunflowers_2": 1,
+        "antique_atlas:biome/flatland/plains/grass_hills_low": 2
+  }
+}

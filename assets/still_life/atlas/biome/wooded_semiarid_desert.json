@@ -1,0 +1,9 @@
+{
+  "textures": {
+    "mid": {
+      "antique_atlas:biome/arid/desert/sand_shrubs": 3,
+      "antique_atlas:biome/arid/badlands/wooded/grass_oak_plateau_low": 2
+    },
+    "high": "antique_atlas:biome/arid/badlands/wooded/grass_oak_plateau"
+  }
+}

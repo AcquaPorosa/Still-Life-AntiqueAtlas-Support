@@ -1,0 +1,8 @@
+{
+  "textures": {
+    "antique_atlas:biome/highland/windswept/hills/grass_cliffs": 1,
+    "antique_atlas:biome/flatland/plains/grass_hills": 2,
+    "antique_atlas:biome/highland/meadow/grass_daisies_plateau": 1,
+    "antique_atlas:biome/woodland/jungle/bushes_cliffs": 1 
+  }
+}

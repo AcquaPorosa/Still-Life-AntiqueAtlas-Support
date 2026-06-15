@@ -1,0 +1,8 @@
+{
+  "textures": {
+      "antique_atlas:feature/water/water_1": 2,
+      "antique_atlas:biome/flatland/plains/grass_3": 2,
+      "antique_atlas:biome/woodland/forest/grass_oak_mixed": 1
+
+  }
+}

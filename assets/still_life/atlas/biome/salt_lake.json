@@ -1,0 +1,8 @@
+{
+  "textures": {
+      "antique_atlas:base/sand": 3,
+      "antique_atlas:biome/arid/desert/sand_1": 2,
+      "antique_atlas:feature/water/water_1": 1
+    
+  }
+}

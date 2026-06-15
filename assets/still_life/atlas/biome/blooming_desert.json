@@ -1,0 +1,9 @@
+{
+  "textures": {
+
+      "antique_atlas:biome/arid/desert/sand_1": 3,
+      "antique_atlas:biome/arid/desert/sand_cacti": 2,
+      "antique_atlas:biome/flatland/plains/sunflower/sunflowers_1": 1
+
+  }
+}

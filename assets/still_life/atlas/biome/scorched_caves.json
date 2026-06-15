@@ -1,0 +1,7 @@
+{
+  "textures": {
+    "antique_atlas:base/cave": 3,
+    "antique_atlas:biome/nether/wastes/nether_wastes_low_fire": 2,
+    "antique_atlas:feature/lava/crater_lava_1": 1
+  }
+}

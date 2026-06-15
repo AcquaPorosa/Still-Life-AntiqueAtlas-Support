@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "mid": "antique_atlas:biome/woodland/forest/dark/oak_fancy_dense_hills",
+    "high": "antique_atlas:biome/highland/windswept/forest/rough_oak_mountains"
+  }
+}

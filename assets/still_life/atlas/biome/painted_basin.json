@@ -1,0 +1,9 @@
+{
+  "textures": {
+    "mid": {
+      "antique_atlas:biome/arid/badlands/desert/sand_1": 3,
+      "antique_atlas:biome/arid/badlands/terracotta_tiered_separate": 2
+    },
+    "high": "antique_atlas:biome/arid/badlands/terracotta_plateau_low"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "textures": {
+    "mid": {
+      "antique_atlas:biome/nether/crimson/crimson_forest_low": 3,
+      "antique_atlas:biome/nether/wastes/nether_wastes_low": 2
+    },
+    "high": "antique_atlas:biome/nether/basalt/basalt_columns_1"
+  }
+}

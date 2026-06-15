@@ -1,0 +1,10 @@
+{
+  "textures": {
+    "mid": {
+      "antique_atlas:biome/highland/meadow/grass_daisies_plateau": 3,
+      "antique_atlas:biome/highland/meadow/grass_dandelions_plateau": 2
+    },
+    "high": "antique_atlas:biome/highland/windswept/hills/grass_cliffs",
+    "peak": "antique_atlas:biome/highland/peaks/stony/smooth_mountains"
+  }
+}

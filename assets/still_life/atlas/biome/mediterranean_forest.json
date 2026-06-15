@@ -1,0 +1,10 @@
+{
+  "textures": {
+    "mid": {
+      "antique_atlas:biome/woodland/forest/oak_mixed": 3,
+      "antique_atlas:biome/woodland/forest/oak_fancy_mixed": 2,
+      "antique_atlas:biome/flatland/plains/grass_3": 1
+    },
+    "high": "antique_atlas:biome/woodland/forest/oak_mixed_hills_low"
+  }
+}

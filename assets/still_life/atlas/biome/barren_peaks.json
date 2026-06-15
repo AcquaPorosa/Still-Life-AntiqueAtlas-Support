@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "mid": "antique_atlas:biome/highland/peaks/stony/smooth_mountains",
+    "peak": "antique_atlas:biome/highland/peaks/frozen/rough_mountains"
+  }
+}

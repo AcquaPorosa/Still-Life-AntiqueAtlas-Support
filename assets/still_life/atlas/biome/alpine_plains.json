@@ -1,0 +1,8 @@
+{
+  "textures": {
+    "antique_atlas:biome/highland/windswept/hills/grass_cliffs": 1,
+    "antique_atlas:biome/flatland/plains/grass_hills": 2,
+    "antique_atlas:biome/woodland/taiga/pine_spruce_hills_low_1": 2,
+    "antique_atlas:biome/woodland/taiga/pine_spruce_hills_low_2": 1 
+  }
+}

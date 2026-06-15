@@ -1,0 +1,9 @@
+{
+  "textures": {
+    "mid": {
+      "antique_atlas:biome/arid/badlands/eroded/sand_shrubs_terracotta_mixed": 3,
+      "antique_atlas:biome/arid/desert/sand_1": 2
+    },
+    "high": "antique_atlas:biome/arid/badlands/eroded/terracotta_pillars"
+  }
+}

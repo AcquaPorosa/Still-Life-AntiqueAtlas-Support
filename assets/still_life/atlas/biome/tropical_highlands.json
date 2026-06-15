@@ -1,0 +1,7 @@
+{
+  "textures": {
+    "valley": "antique_atlas:biome/woodland/jungle/sparse/grass_palm_hills",
+    "mid": "antique_atlas:biome/woodland/jungle/bushes_cliffs",
+    "high": "antique_atlas:base/cliffs"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "textures": {
+    "valley": "antique_atlas:biome/arid/badlands/eroded/terracotta_fingers",
+    "mid": "antique_atlas:biome/highland/slopes/snowy/snow_cliffs",
+    "high": "antique_atlas:biome/highland/peaks/jagged/sharp_snow_mountains"
+  }
+}

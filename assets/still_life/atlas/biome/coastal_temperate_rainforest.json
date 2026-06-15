@@ -1,0 +1,10 @@
+{
+  "textures": {
+    "mid": {
+      "antique_atlas:biome/woodland/forest/dark/oak_dense": 2,
+      "antique_atlas:biome/woodland/jungle/jungle_mega": 2,
+      "antique_atlas:biome/wetland/beach/sand_shore_water_1": 1
+    },
+    "high": "antique_atlas:biome/woodland/forest/dark/oak_dense_hills"
+  }
+}

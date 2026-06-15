@@ -1,0 +1,9 @@
+{
+  "textures": {
+    "mid": {
+      "antique_atlas:biome/nether/valley/soul_sand": 3,
+      "antique_atlas:biome/nether/valley/soul_sand_island": 2
+    },
+    "high": "antique_atlas:biome/nether/valley/soul_sand_plateau_low"
+  }
+}

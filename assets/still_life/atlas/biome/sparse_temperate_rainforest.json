@@ -1,0 +1,10 @@
+{
+  "textures": {
+    "mid": {
+      "antique_atlas:biome/woodland/forest/dark/oak_fancy_dense": 2,
+      "antique_atlas:biome/flatland/plains/grass_oak_fancy_sparse": 2,
+      "antique_atlas:biome/highland/meadow/grass_daisies_plateau": 1
+    },
+    "high": "antique_atlas:biome/woodland/forest/oak_fancy_mixed_hills_low"
+  }
+}

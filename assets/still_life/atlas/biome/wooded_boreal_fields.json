@@ -1,0 +1,9 @@
+{
+  "textures": {
+    "mid": {
+      "antique_atlas:biome/flatland/plains/grass_3": 3,
+      "antique_atlas:biome/woodland/taiga/pine_spruce_1": 2
+    },
+    "high": "antique_atlas:biome/woodland/taiga/pine_hills_low"
+  }
+}

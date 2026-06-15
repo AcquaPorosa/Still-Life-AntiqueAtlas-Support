@@ -1,0 +1,10 @@
+{
+  "textures": {
+    "mid": {
+      "antique_atlas:base/snow": 3,
+      "antique_atlas:biome/flatland/plains/snowy/snow_3": 2
+    },
+    "high": "antique_atlas:biome/flatland/plains/snowy/snow_hills_low",
+    "peak": "antique_atlas:biome/highland/peaks/jagged/sharp_snow_mountains"
+  }
+}

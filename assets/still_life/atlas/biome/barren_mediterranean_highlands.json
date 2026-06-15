@@ -1,0 +1,7 @@
+{
+  "textures": {
+    "valley": "antique_atlas:biome/arid/savanna/grass_plateau_1",
+    "mid": "antique_atlas:biome/highland/windswept/hills/gravelly/stone_hills_low",
+    "high": "antique_atlas:biome/highland/peaks/stony/smooth_mountains"
+  }
+}

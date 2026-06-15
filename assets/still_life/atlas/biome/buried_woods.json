@@ -1,0 +1,9 @@
+{
+  "textures": {
+    "mid": {
+      "antique_atlas:biome/woodland/forest/dark/oak_dense": 3,
+      "antique_atlas:base/cave": 1
+    },
+    "high": "antique_atlas:biome/woodland/forest/dark/oak_dense_hills"
+  }
+}

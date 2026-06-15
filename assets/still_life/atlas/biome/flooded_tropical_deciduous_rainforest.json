@@ -1,0 +1,10 @@
+{
+  "textures": {
+    "mid": {
+      "antique_atlas:biome/wetland/swamp/mangrove/swamp_water_mangrove": 3,
+      "antique_atlas:biome/woodland/jungle/jungle_mega": 2,
+      "antique_atlas:biome/wetland/swamp/swamp_water_oak_swamp_3": 1
+    },
+    "high": "antique_atlas:biome/woodland/jungle/jungle_mega_hills_low"
+  }
+}

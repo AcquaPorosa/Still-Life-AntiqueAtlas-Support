@@ -1,0 +1,8 @@
+{
+  "textures": {
+      "antique_atlas:biome/wetland/beach/sand_shore_water_3": 3,
+      "antique_atlas:biome/woodland/jungle/sparse/grass_palm": 2,
+      "antique_atlas:base/sand": 1
+    
+  }
+}

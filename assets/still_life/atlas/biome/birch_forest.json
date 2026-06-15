@@ -1,0 +1,9 @@
+{
+  "textures": {
+    "mid": {
+      "antique_atlas:biome/woodland/forest/birch/birch": 3,
+      "antique_atlas:biome/woodland/forest/birch/grass_birch": 1
+    },
+    "high": "antique_atlas:biome/woodland/forest/birch/birch_hills_low"
+  }
+}

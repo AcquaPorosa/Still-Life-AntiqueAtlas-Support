@@ -1,0 +1,9 @@
+{
+  "textures": {
+    "mid": {
+      "antique_atlas:biome/arid/savanna/grass_acacia_3": 3,
+      "antique_atlas:biome/flatland/plains/grass_3": 2
+    },
+    "high": "antique_atlas:biome/arid/savanna/plateau/grass_plateau_3"
+  }
+}

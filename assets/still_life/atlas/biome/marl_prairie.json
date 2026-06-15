@@ -1,0 +1,8 @@
+{
+  "textures": {
+      "antique_atlas:biome/wetland/swamp/swamp_water_grass_hills": 3,
+      "antique_atlas:biome/wetland/beach/sand_shore_water_1": 2,
+      "antique_atlas:base/sand": 1
+
+  }
+}
