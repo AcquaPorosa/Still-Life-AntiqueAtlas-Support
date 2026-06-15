@@ -1,8 +1,8 @@
 {
   "textures": {
       "antique_atlas:biome/wetland/beach/sand_shore_water_1": 3,
-      "antique_atlas:biome/woodland/taiga/pine": 2,
-      "antique_atlas:base/sand": 1
+      "antique_atlas:base/grass": 1,
+      "antique_atlas:base/sand": 3
    
   }
 }
