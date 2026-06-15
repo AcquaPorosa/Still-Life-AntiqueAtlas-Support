@@ -2,8 +2,16 @@
   "textures": {
     "mid": {
       "antique_atlas:biome/woodland/taiga/pine_spruce_2": 3,
-      "antique_atlas:biome/woodland/taiga/pine": 2
+      "antique_atlas:biome/woodland/taiga/pine": 2,
+      "antique_atlas:biome/woodland/taiga/pine_spruce_1": 2,
+      "antique_atlas:biome/woodland/taiga/old_growth_pine/podzol_pine_mega_pine": 1,
+      "antique_atlas:biome/woodland/taiga/pine_hills_low": 1
     },
-    "high": "antique_atlas:biome/woodland/taiga/pine_spruce_hills_low_2"
+    "high": {
+      "antique_atlas:biome/woodland/taiga/pine_spruce_hills_low_2": 3,
+      "antique_atlas:biome/woodland/taiga/pine_spruce_hills_low_1": 2,
+      "antique_atlas:biome/woodland/taiga/old_growth_pine/podzol_mega_pine_mega_spruce_hills_low": 2,
+      "antique_atlas:biome/highland/grove/smooth_spruce_mountains": 1
+    }
   }
 }

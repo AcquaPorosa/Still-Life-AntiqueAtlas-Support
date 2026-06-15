@@ -1,9 +1,14 @@
 {
   "textures": {
     "mid": {
+      "antique_atlas:biome/woodland/jungle/sparse/grass_oak_swamp_1": 2,
       "antique_atlas:biome/arid/savanna/grass_acacia_1": 3,
-      "antique_atlas:biome/woodland/jungle/sparse/grass_oak_swamp_1": 2
+      "antique_atlas:base/grass": 2
     },
-    "high": "antique_atlas:biome/arid/savanna/plateau/grass_acacia_plateau_1"
+    "high": {
+      "antique_atlas:biome/arid/savanna/plateau/grass_acacia_plateau_1": 2,
+      "antique_atlas:biome/arid/savanna/plateau/grass_acacia_plateau_2": 2,
+      "antique_atlas:biome/arid/savanna/plateau/grass_plateau_2": 3
+    }
   }
 }
