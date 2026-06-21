@@ -1,9 +1,19 @@
 {
   "textures": {
-
-      "antique_atlas:biome/arid/desert/sand_shrubs": 2,
-      "antique_atlas:biome/flatland/plains/snowy/snow_2": 2,
-      "antique_atlas:biome/flatland/plains/snowy/snow_pine_sparse_1": 1
-
+    "valley": {
+      "antique_atlas:biome/arid/badlands/desert/sand_shrubs": 4,
+      "antique_atlas:biome/arid/badlands/desert/sand_1": 3,
+      "antique_atlas:biome/arid/desert/shrubs_hills_low": 2
+    },
+    "high": {
+      "antique_atlas:biome/arid/badlands/terracotta_tiered_rough": 4,
+      "antique_atlas:highland/windswept/hills/gravelly/stone_hills_low": 3,
+      "antique_atlas:biome/arid/savanna/grass_acacia_3": 1
+    },
+    "peak": {
+      "antique_atlas:biome/highland/peaks/stony/smooth_mountains": 4,
+      "antique_atlas:biome/nether/basalt/basalt_columns_1": 3,
+      "antique_atlas:biome/flatland/plains/sunflower/sunflowers_1": 1
+    }
   }
 }

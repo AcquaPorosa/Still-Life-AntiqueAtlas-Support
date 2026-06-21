@@ -1,10 +1,14 @@
 {
-  "textures": [
-    "antique_atlas:biome/woodland/taiga/pine_hills_low",
-    "antique_atlas:biome/woodland/taiga/pine_spruce_hills_low_1",
-    "antique_atlas:biome/woodland/taiga/pine_spruce_hills_low_2",
-    "antique_atlas:biome/woodland/taiga/pine",
-    "antique_atlas:biome/woodland/taiga/pine_spruce_1",
-    "antique_atlas:biome/woodland/taiga/pine_spruce_2"
-  ]
+  "textures": {
+    "mid": {
+      "antique_atlas:biome/woodland/forest/birch/grass_birch": 4,
+      "antique_atlas:biome/woodland/taiga/pine_spruce_1": 3,
+      "antique_atlas:biome/flatland/plains/grass_hills_low": 1
+    },
+    "high": {
+      "antique_atlas:biome/woodland/forest/birch/birch_hills_low": 4,
+      "antique_atlas:biome/woodland/taiga/pine_spruce_hills_low_1": 3,
+      "antique_atlas:biome/flatland/plains/grass_hills": 1
+    }
+  }
 }

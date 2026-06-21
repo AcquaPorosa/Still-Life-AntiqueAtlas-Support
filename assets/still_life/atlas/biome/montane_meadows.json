@@ -1,10 +1,19 @@
 {
   "textures": {
-    "mid": {
-      "antique_atlas:biome/highland/meadow/grass_daisies_plateau": 3,
-      "antique_atlas:biome/highland/meadow/grass_dandelions_plateau": 2
+    "low": {
+      "antique_atlas:biome/flatland/plains/grass_hills": 4,
+      "antique_atlas:biome/highland/windswept/hills/grass_cliffs": 3,
+      "antique_atlas:biome/arid/desert/shrubs_hills_low": 1
     },
-    "high": "antique_atlas:biome/highland/windswept/hills/grass_cliffs",
-    "peak": "antique_atlas:biome/highland/peaks/stony/smooth_mountains"
+    "mid": {
+      "antique_atlas:biome/highland/windswept/hills/grass_cliffs": 4,
+      "antique_atlas:biome/highland/windswept/hills/gravelly/stone_hills_low": 3,
+      "antique_atlas:biome/woodland/jungle/bushes_cliffs": 2
+    },
+    "high": {
+      "antique_atlas:biome/highland/peaks/stony/smooth_mountains": 5,
+      "antique_atlas:biome/highland/windswept/hills/grass_cliffs": 3,
+      "antique_atlas:biome/highland/windswept/hills/gravelly/stone_hills_low": 2
+    }
   }
 }

@@ -1,13 +1,14 @@
 {
-	"textures": {
-		"mid": {
-			"antique_atlas:biome/woodland/forest/birch/birch": 2,
-			"antique_atlas:biome/woodland/forest/birch/birch_dense": 1,
-			"antique_atlas:biome/woodland/forest/birch/grass_birch": 2
-		},
-		"high": [
-			"antique_atlas:biome/woodland/forest/birch/birch_hills_low",
-			"antique_atlas:biome/woodland/forest/birch/grass_birch_hills_low"
-		]
-	}
+  "textures": {
+    "mid": {
+      "antique_atlas:biome/woodland/forest/birch/grass_birch": 5,
+      "antique_atlas:biome/woodland/forest/birch/old_growth/birch_tall": 3,
+      "antique_atlas:biome/flatland/plains/grass_hills_low": 2
+    },
+    "high": {
+      "antique_atlas:biome/woodland/forest/birch/birch_hills_low": 5,
+      "antique_atlas:biome/woodland/forest/birch/old_growth/birch_tall_hills_low": 3,
+      "antique_atlas:biome/flatland/plains/grass_hills": 2
+    }
+  }
 }

@@ -1,8 +1,14 @@
 {
   "textures": {
-      "antique_atlas:biome/flatland/plains/sunflower/sunflowers_1": 3,
-      "antique_atlas:biome/flatland/plains/grass_3": 2,
-      "antique_atlas:biome/flatland/plains/sunflower/sunflowers_2": 1
-
+    "mid": {
+      "antique_atlas:biome/woodland/forest/grass_oak_mixed": 4,
+      "antique_atlas:biome/flatland/plains/grass_3": 3,
+      "antique_atlas:biome/flatland/plains/grass_oak_sparse": 2
+    },
+    "high": {
+      "antique_atlas:biome/woodland/forest/grass_oak_mixed_hills_low": 4,
+      "antique_atlas:biome/flatland/plains/grass_hills_low": 3,
+      "antique_atlas:base/hills_low": 1
+    }
   }
 }

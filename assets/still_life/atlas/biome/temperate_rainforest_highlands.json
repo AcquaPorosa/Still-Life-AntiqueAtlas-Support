@@ -1,6 +1,14 @@
 {
   "textures": {
-    "mid": "antique_atlas:biome/woodland/forest/dark/oak_fancy_dense_hills",
-    "high": "antique_atlas:biome/highland/windswept/forest/rough_oak_mountains"
+    "high": {
+      "antique_atlas:biome/woodland/taiga/old_growth_spruce/pine_mega_spruce_hills_low": 4,
+      "antique_atlas:biome/woodland/taiga/pine_spruce_hills_low_1": 3,
+      "antique_atlas:biome/flatland/plains/grass_hills": 2
+    },
+    "peak": {
+      "antique_atlas:biome/highland/grove/smooth_spruce_mountains": 5,
+      "antique_atlas:biome/highland/peaks/stony/smooth_mountains": 3,
+      "antique_atlas:biome/woodland/taiga/snowy/snow_pine_spruce_hills": 1
+    }
   }
 }

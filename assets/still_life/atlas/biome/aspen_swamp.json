@@ -1,8 +1,14 @@
 {
   "textures": {
-    "mid": {
-      "antique_atlas:biome/wetland/swamp/swamp_water_oak_swamp_sparse_2": 3,
-      "antique_atlas:biome/woodland/forest/birch/birch": 2
+    "valley": {
+      "antique_atlas:biome/wetland/swamp/swamp_water": 5,
+      "antique_atlas:biome/woodland/forest/birch/grass_birch": 3,
+      "antique_atlas:biome/wetland/swamp/swamp_water_grass_hills": 2
+    },
+    "low": {
+      "antique_atlas:biome/woodland/forest/birch/grass_birch_hills_low": 4,
+      "antique_atlas:biome/wetland/swamp/swamp_water_grass_hills": 4,
+      "antique_atlas:biome/woodland/forest/birch/birch_hills_low": 2
     }
   }
 }
